@@ -34,8 +34,4 @@ I just enjoy ranting about anything Cyber Security related. So yeah, there's alo
   <p>Neither, I write everything on one line.</p>
 </center>
 
-### Contact Me
 
-[frinto@pwnable.club](mailto:frinto@pwnable.club)
-
-<small>Side Note: (Don't message me unless you're Barack Obama!)</small>
