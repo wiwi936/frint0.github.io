@@ -2,6 +2,7 @@
 layout: post
 title: F*ck Google!
 ---
+<meta property="og:image" content="{{ site.baseurl }}/images/google.png">
 
 <img src="{{ site.baseurl }}/images/google.png" alt="Searching for DuckDuckGo on Google">
 
