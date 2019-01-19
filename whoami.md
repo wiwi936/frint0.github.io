@@ -1,10 +1,12 @@
 ---
 layout: page
-title: WHOAMI
-permalink: /whoami/
+title: Who am I?
+permalink: /whoami.html
 ---
 
-Some information about you!
+* Official ~~Script Kiddie~~ Hacker (according to Hack The Box)
+
+<script src="https://www.hackthebox.eu/badge/14037"></script>
 
 ### More Information
 
