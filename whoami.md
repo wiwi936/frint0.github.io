@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who am I?
-permalink: /whoami.html
+permalink: /whoami
 ---
 <img src="{{ site.baseurl }}/images/me2.png" alt="Photo of Me">
 
