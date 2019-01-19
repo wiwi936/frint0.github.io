@@ -38,4 +38,4 @@ I just enjoy ranting about anything Cyber Security related. So yeah, there's alo
 
 [frinto@pwnable.club](mailto:frinto@pwnable.club)
 
-***Side Note: (Don't message me unless you're Barrack Obama!)***
+<small>Side Note: (Don't message me unless you're Barrack Obama!)</small>
