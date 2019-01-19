@@ -11,6 +11,7 @@ It was a very vague tutorial on how to avoid using Google applications. *Now tha
 I just assumed the Ghost Blog service had crashed, so I hopped on my computer (No I didn't actually hop on my computer, it would break) and *tried* to ssh into my non-existent VPS. After that failed, I frantically go to the Google Cloud control panel and get a message reading **exactly** thi- well actually here's a screenshot:
 
 <img src="{{ site.baseurl }}/images/beaned.png" alt="Google Beaned Frinto">
+
 <small><i>Very accurate portrayal of Googles message, not edited whatsoever</i></small>
 
 
