@@ -10,12 +10,15 @@ permalink: /whoami.html
 
 * Fastest Typer Alive (according to Hacker Typer)
 
-### More Information
+* Human (according to biology)
 
-A place to include any other types of information that you'd like to include about yourself.
+* Hottest Man Alive (according to myself)
 
-### Contact me
+## Why do I have a blog?
+
+
+### Contact Me
 
 [frinto@pwnable.club](mailto:frinto@pwnable.club)
 
-***Side Note: (Dont' message me if you're not Barrack Obama)***
+***Side Note: (Don't message me unless you're Barrack Obama!)***
