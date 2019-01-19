@@ -16,6 +16,11 @@ permalink: /whoami.html
 
 ## Why do I have a blog?
 
+I just enjoy ranting about anything Cyber Security or Computer Science related. So yeah, there's alot of that. This is also a way for me to keep things noted for future reference. Consider this a public diary of my "Hacking Adventures" and rants on how I can't get a girlfrie-
+
+<center>
+  <h2>F.A.Q</h2>
+</center>
 
 ### Contact Me
 
