@@ -2,6 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact
+description: So you’ve found yourself wanting to talk to a master hacker huh?
+image: https://pwnable.club/images/contact.png
+author: Frinto
 ---
 
 <img src="{{ site.baseurl }}/images/contact.png" alt="Contact Photo">
