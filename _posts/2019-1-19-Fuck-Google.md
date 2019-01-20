@@ -1,6 +1,9 @@
 ---
 layout: post
 title: F*ck Google!
+description: This is why I hate Google...
+url: https://pwnable.club/Fuck-Google/
+image: https://pwnable.club/images/google.png
 ---
 <img src="{{ site.baseurl }}/images/google.png" alt="Searching for DuckDuckGo on Google">
 
