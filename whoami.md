@@ -2,9 +2,13 @@
 layout: page
 title: Who am I?
 permalink: /whoami
+description: Who the hell is Frinto?
+image: https://pwnable.club/images/me2.png
+author: Frinto
 ---
 <img src="{{ site.baseurl }}/images/me2.png" alt="Photo of Me">
 
+* Frinto (well not really, that's not my real name)
 
 * Official ~~Script Kiddie~~ Hacker (according to Hack The Box)
 
