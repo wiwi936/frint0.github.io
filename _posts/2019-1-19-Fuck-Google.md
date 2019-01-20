@@ -3,7 +3,10 @@ layout: post
 title: F*ck Google!
 description: This is why I hate Google...
 url: https://pwnable.club/Fuck-Google/
-image: https://pwnable.club/images/google.png
+image:
+  path: https://pwnable.club/images/google.png
+  height: 1920
+  width: 1080
 ---
 <img src="{{ site.baseurl }}/images/google.png" alt="Searching for DuckDuckGo on Google">
 
