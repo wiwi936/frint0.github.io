@@ -2,8 +2,6 @@
 layout: post
 title: F*ck Google!
 ---
-<meta property="og:image" content="{{ site.baseurl }}/images/google.png">
-
 <img src="{{ site.baseurl }}/images/google.png" alt="Searching for DuckDuckGo on Google">
 
 So yesterday, I set up Ghost Blog on a VPS from Google Cloud. I spent hours trying to decide on which theme to choose, writing my about me, and drawing photos (Yes, these shitty drawings take me a while to finish). Little did I know all of this progress would be lost the next day. 
