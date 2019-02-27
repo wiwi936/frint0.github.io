@@ -11,6 +11,6 @@ author: Frinto
 
 So you've found yourself wanting to talk to a master hacker huh? Well if so, heres my email:
 
-[frinto@pwnable.club](mailto:frinto@pwnable.club)
+[frinto@protonmail.com](mailto:frinto@protonmail.com)
 
 <small>Side Note: (Don't message me unless you're Barack Obama!)</small>
