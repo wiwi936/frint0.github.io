@@ -8,7 +8,7 @@ image: https://pwnable.club/images/shodan.png
 <img src="{{ site.baseurl }}/images/shodan.png" alt="Shodan Logo drawn by Pablo Picasso">
 
 I'm sure you've all heard of Shodan. Even the skids and normies have, thanks to HackerGiraffe. It essentially scans the internet for devices
-with open ports, and anyone can search through this database. To put it simple, I was bored one afternoon and decided I really needed touch up 
+with open ports, and anyone can search through this database. To put it simply, I was bored one afternoon and decided I really needed touch up 
 on my android pwning, but where could I possibly find a vulnerable android device for me to viciously and *illegally* take over?
 Oh, Shodan exists (Yes, I could throw up an Android VM but thats boring), and so my quest to find a pwnable android begins.
 
