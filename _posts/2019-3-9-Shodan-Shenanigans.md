@@ -13,7 +13,7 @@ on my android pwning, but where could I possibly find a vulnerable android devic
 Oh, Shodan exists (Yes, I could throw up an Android VM but thats boring), and so my quest to find a pwnable android begins.
 
 I lazily just go over to shodan and look at the android tag. I see a couple of interesting saved searched but one that caught my attention, 
-was **"root shell on android devices"**. Looking at this saved search, I find 60ish devices with port 23 open (telnet). 
+was **"root shell on android devices"**. Looking at this saved search, I found 60ish devices with port 23 open (telnet). 
 
 <img src="{{ site.baseurl }}/images/search-results.png" alt="Search Results">
 
